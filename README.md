@@ -1,6 +1,9 @@
 # CANALES
 
 >## Disney Chanel
+>```
+>DISNLHD
+>```
 >### SPOTS
 >>logo del canal
 >>```
@@ -44,3 +47,38 @@
 >>```
 >>16418312
 >>```
+
+>## Studio Universal
+>```
+>STULM
+>```
+>>### SPOTS
+>>LOGO DEL CANAL
+>>```
+>>15480589
+>>```
+>>JUMANJI DOMINGO AGOSTO 24
+>>```
+>>16418326
+>>```
+>>AGO ESTE MES TODO ESTA EN JUEGO
+>>```
+>>16404928
+>>```
+>>UN LUGAR DONDE LOS ADULTOS SE DIVIERTEN
+>>```
+>>16348215
+>>```
+>>VIVIMOS EL CINE
+>>```
+>>16064321
+>>```
+>>VIVIMOS EL TALENTO RAPIDOS Y FURIOSOS
+>>```
+>>15989107
+>>```
+
+># Paramount
+>```
+>PARAMNT
+>```
