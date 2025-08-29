@@ -1,6 +1,6 @@
 # CANALES
 
->## Disney Chanel
+## Disney Chanel
 >```
 >DISNLHD
 >```
@@ -48,7 +48,7 @@
 >>16418312
 >>```
 
->## Studio Universal
+## Studio Universal
 >```
 >STULM
 >```
@@ -77,8 +77,74 @@
 >>```
 >>15989107
 >>```
+>>vivimos la adrenalina
+>>```
+>>16164163
+>>```
+>>vivimos el cine
+>>```
+>>16230979
+>>```
+>>vivimos el amor
+>>```
+>>16170375
+>>```
+>>vivimos el talento
+>>```
+>>15926314
+>>```
+>>para pasar de una escena
+>>```
+>>16357849
+>>```
 
-># Paramount
+## Paramount
 >```
 >PARAMNT
 >```
+>>### SPOTS
+>>autopromo
+>>```
+>>16053087
+>>```
+
+## Multimedios GDL
+>```
+>GDL
+>```
+>>### SPOTS
+>>logo del canal
+>>```
+>>15880632
+>>```
+>>momentos del 6
+>>```
+>>16281603
+>>```
+>>cafe andatti
+>>```
+>>16442278
+>>```
+>
+>>### SUPER
+>>secreto herbal
+>>```
+>>16423812
+>>```
+>>sound of freedom fundation
+>>```
+>>16223848
+>>```
+>>IESDA
+>>```
+>>16438365
+>>```
+>>fragna
+>>```
+>>16233765
+>>```
+>>oh joy
+>>```
+>>16233761
+>>```
+>>frutarindo
