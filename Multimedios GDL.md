@@ -3,268 +3,550 @@
 <details>
 <summary><b>MENCIÓN</b></summary>
 
-<details>
-<summary><i>SUPERIMPOSICION</i></summary>
+  <details>
+    <summary><i>SUPERIMPOSICION</i></summary>
 
+#### MENCIÓN – SUPERIMPOSICION
 - **COSTA RICA TOURISM BOARD**  
-  `16363340`  
-  _14–15 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 14–15 s  
+  - **ID:**
+    ```
+    16363340
+    ```
+
 - **PLEX**  
-  `16135314`  
-  _5–12 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 5–12 s  
+  - **ID:**
+    ```
+    16135314
+    ```
+
 - **RUNTIME**  
-  `16133456`  
-  _6–11 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 6–11 s  
+  - **ID:**
+    ```
+    16133456
+    ```
+
 - **ROKU CHANNEL**  
-  `16236863`  
-  _4–11 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 4–11 s  
+  - **ID:**
+    ```
+    16236863
+    ```
+
 - **PLUTO TV**  
-  `16120963`  
-  _4–9 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 4–9 s  
+  - **ID:**
+    ```
+    16120963
+    ```
+
 - **SAMSUNG TV PLUS**  
-  `16119647`  
-  _5–9 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 5–9 s  
+  - **ID:**
+    ```
+    16119647
+    ```
+
 - **RTC CLASIFICACION A**  
-  `16342490`  
-  _7–10 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 7–10 s  
+  - **ID:**
+    ```
+    16342490
+    ```
+
 - **SECRETO HERBAL**  
-  `16423812`  
-  _15–19 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 15–19 s  
+  - **ID:**
+    ```
+    16423812
+    ```
+
 - **STUDIO F**  
-  `16331389`  
-  _10–11 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 10–11 s  
+  - **ID:**
+    ```
+    16331389
+    ```
+
 - **TCL**  
-  `16055846`  
-  _4–11 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 4–11 s  
+  - **ID:**
+    ```
+    16055846
+    ```
+
 - **PRAGNA**  
-  `16233765`  
-  _10–10 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 10–10 s  
+  - **ID:**
+    ```
+    16233765
+    ```
+
 - **OH JOY**  
-  `16233761`  
-  _10–10 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 10–10 s  
+  - **ID:**
+    ```
+    16233761
+    ```
+
 - **FRUTARINDO**  
-  `16233756`  
-  _10–10 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 10–10 s  
+  - **ID:**
+    ```
+    16233756
+    ```
+
 - **CAJA POPULAR 15 DE MAYO**  
-  `16168830`  
-  _11–11 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 11–11 s  
+  - **ID:**
+    ```
+    16168830
+    ```
+
 - **LG CHANNELS**  
-  `16255906`  
-  _9–9 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 9–9 s  
+  - **ID:**
+    ```
+    16255906
+    ```
+
 - **CAJA POPULAR 15 DE MAYO**  
-  `16154216`  
-  _11–11 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 11–11 s  
+  - **ID:**
+    ```
+    16154216
+    ```
+
 - **CHESTER Y PECK**  
-  `16132974`  
-  _11–11 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 11–11 s  
+  - **ID:**
+    ```
+    16132974
+    ```
+
 - **BOUTIQUE LOOK AT ME**  
-  `16394888`  
-  _13–13 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 13–13 s  
+  - **ID:**
+    ```
+    16394888
+    ```
+
 - **L.A CLOTHING**  
-  `16369608`  
-  _12–12 s (MENCIÓN – SUPERIMPOSICION)_
+  - **Rango:** 12–12 s  
+  - **ID:**
+    ```
+    16369608
+    ```
+
 - **LG CHANNELS**  
-  `16156813`  
-  _10–10 s (MENCIÓN – SUPERIMPOSICION)_
-</details>
+  - **Rango:** 10–10 s  
+  - **ID:**
+    ```
+    16156813
+    ```
 
-<details>
-<summary><i>MENCIÓN</i></summary>
+  </details>
 
+  <details>
+    <summary><i>MENCIÓN</i></summary>
+
+#### MENCIÓN – MENCIÓN
 - **CROQUETON**  
-  `16438877`  
-  _26–46 s (MENCIÓN – MENCIÓN)_
+  - **Rango:** 26–46 s  
+  - **ID:**
+    ```
+    16438877
+    ```
+
 - **ZORRO**  
-  `16441494`  
-  _23–24 s (MENCIÓN – MENCIÓN)_
+  - **Rango:** 23–24 s  
+  - **ID:**
+    ```
+    16441494
+    ```
+
 - **IESDA**  
-  `16438365`  
-  _28–28 s (MENCIÓN – MENCIÓN)_
+  - **Rango:** 28–28 s  
+  - **ID:**
+    ```
+    16438365
+    ```
+
 - **SECRETO HERBAL**  
-  `16418975`  
-  _24–24 s (MENCIÓN – MENCIÓN)_
+  - **Rango:** 24–24 s  
+  - **ID:**
+    ```
+    16418975
+    ```
+
 - **BBVA**  
-  `16028531`  
-  _28–28 s (MENCIÓN – MENCIÓN)_
+  - **Rango:** 28–28 s  
+  - **ID:**
+    ```
+    16028531
+    ```
+
 - **RUSHBET**  
-  `16416453`  
-  _39–39 s (MENCIÓN – MENCIÓN)_
+  - **Rango:** 39–39 s  
+  - **ID:**
+    ```
+    16416453
+    ```
+
 - **NIDAL**  
-  `16428212`  
-  _3–3 s (MENCIÓN – MENCIÓN)_
+  - **Rango:** 3–3 s  
+  - **ID:**
+    ```
+    16428212
+    ```
+
 - **BOING**  
-  `16368270`  
-  _44–44 s (MENCIÓN – MENCIÓN)_
+  - **Rango:** 44–44 s  
+  - **ID:**
+    ```
+    16368270
+    ```
+
 - **CASA MARCHAND**  
-  `16441024`  
-  _54–54 s (MENCIÓN – MENCIÓN)_
-- **BOING**  
-  `16344429`  
-  _46–46 s (MENCIÓN – MENCIÓN)_
-- **BOING**  
-  `16086369`  
-  _52–52 s (MENCIÓN – MENCIÓN)_
-</details>
+  - **Rango:** 54–54 s  
+  - **ID:**
+    ```
+    16441024
+    ```
 
-<details>
-<summary><i>ACCIÓN ESPECIAL</i></summary>
+- **BOING**  
+  - **Rango:** 46–46 s  
+  - **ID:**
+    ```
+    16344429
+    ```
 
+- **BOING**  
+  - **Rango:** 52–52 s  
+  - **ID:**
+    ```
+    16086369
+    ```
+
+  </details>
+
+  <details>
+    <summary><i>ACCIÓN ESPECIAL</i></summary>
+
+#### MENCIÓN – ACCIÓN ESPECIAL
 - **BUENAS NOCHES DON FEMATT**  
-  `16350153`  
-  _19–21 s (MENCIÓN – ACCIÓN ESPECIAL)_
+  - **Rango:** 19–21 s  
+  - **ID:**
+    ```
+    16350153
+    ```
+
 - **SECRETO HERBAL**  
-  `16423816`  
-  _20–22 s (MENCIÓN – ACCIÓN ESPECIAL)_
+  - **Rango:** 20–22 s  
+  - **ID:**
+    ```
+    16423816
+    ```
+
 - **CHISMORREO**  
-  `16353252`  
-  _48–50 s (MENCIÓN – ACCIÓN ESPECIAL)_
+  - **Rango:** 48–50 s  
+  - **ID:**
+    ```
+    16353252
+    ```
+
 - **MMA MEXICO**  
-  `16443409`  
-  _20–21 s (MENCIÓN – ACCIÓN ESPECIAL)_
+  - **Rango:** 20–21 s  
+  - **ID:**
+    ```
+    16443409
+    ```
+
 - **ES SHOW EL MUSICAL**  
-  `16152789`  
-  _21–21 s (MENCIÓN – ACCIÓN ESPECIAL)_
-</details>
+  - **Rango:** 21–21 s  
+  - **ID:**
+    ```
+    16152789
+    ```
 
-<details>
-<summary><i>PATROCINIO</i></summary>
+  </details>
 
+  <details>
+    <summary><i>PATROCINIO</i></summary>
+
+#### MENCIÓN – PATROCINIO
 - **SOUND OF FREEDOM FOUNDATION**  
-  `16223848`  
-  _2–4 s (MENCIÓN – PATROCINIO)_
-</details>
+  - **Rango:** 2–4 s  
+  - **ID:**
+    ```
+    16223848
+    ```
 
-<details>
-<summary><i>BLOQUE PATROCINADO</i></summary>
+  </details>
 
+  <details>
+    <summary><i>BLOQUE PATROCINADO</i></summary>
+
+#### MENCIÓN – BLOQUE PATROCINADO
 - **SECRETO HERBAL**  
-  `16418964`  
-  _143–397 s (MENCIÓN – BLOQUE PATROCINADO)_
+  - **Rango:** 143–397 s  
+  - **ID:**
+    ```
+    16418964
+    ```
+
 - **COSTA RICA I AMBIENTAL ACCION ESPECIAL MENCION**  
-  `16363243`  
-  _269–269 s (MENCIÓN – BLOQUE PATROCINADO)_
+  - **Rango:** 269–269 s  
+  - **ID:**
+    ```
+    16363243
+    ```
+
 - **ARANZAZU SUPERIMPOSICION**  
-  `16442827`  
-  _236–236 s (MENCIÓN – BLOQUE PATROCINADO)_
+  - **Rango:** 236–236 s  
+  - **ID:**
+    ```
+    16442827
+    ```
+
 - **LA FINA**  
-  `16093700`  
-  _126–126 s (MENCIÓN – BLOQUE PATROCINADO)_
+  - **Rango:** 126–126 s  
+  - **ID:**
+    ```
+    16093700
+    ```
+
 - **THATS NOT A HAT**  
-  `16424024`  
-  _390–390 s (MENCIÓN – BLOQUE PATROCINADO)_
+  - **Rango:** 390–390 s  
+  - **ID:**
+    ```
+    16424024
+    ```
+
 - **TECATE**  
-  `16151642`  
-  _275–275 s (MENCIÓN – BLOQUE PATROCINADO)_
-</details>
+  - **Rango:** 275–275 s  
+  - **ID:**
+    ```
+    16151642
+    ```
+
+  </details>
 
 </details>
 
 <details>
 <summary><b>CUÑA</b></summary>
 
-<details>
-<summary><i>REGULAR PROMOCION</i></summary>
+  <details>
+    <summary><i>REGULAR PROMOCION</i></summary>
+
+#### CUÑA – REGULAR PROMOCION
+- **(SPOT PENDIENTE)**  
+  - **Rango:** 10–11 s  
+  - **ID:**
+    ```
+    16443822
+    ```
 
 - **(SPOT PENDIENTE)**  
-  `16443822`  
-  _10–11 s (CUÑA – REGULAR PROMOCION)_
+  - **Rango:** 11–11 s  
+  - **ID:**
+    ```
+    16443805
+    ```
+
 - **(SPOT PENDIENTE)**  
-  `16443805`  
-  _11–11 s (CUÑA – REGULAR PROMOCION)_
+  - **Rango:** 8–12 s  
+  - **ID:**
+    ```
+    16443806
+    ```
+
 - **(SPOT PENDIENTE)**  
-  `16443806`  
-  _8–12 s (CUÑA – REGULAR PROMOCION)_
-- **(SPOT PENDIENTE)**  
-  `16443807`  
-  _11–12 s (CUÑA – REGULAR PROMOCION)_
+  - **Rango:** 11–12 s  
+  - **ID:**
+    ```
+    16443807
+    ```
+
 - **PAPEL HIGIENICO AZALEA 2X$48 (TX: SEPT 17)**  
-  `16442258`  
-  _10–11 s (CUÑA – REGULAR PROMOCION)_
+  - **Rango:** 10–11 s  
+  - **ID:**
+    ```
+    16442258
+    ```
+
 - **CAFE ANDATTI CAPPUCCINO MEDIANO DE 360 MILILITROS 2X$52 (TX: SEPT 17)**  
-  `16442278`  
-  _10–10 s (CUÑA – REGULAR PROMOCION)_
+  - **Rango:** 10–10 s  
+  - **ID:**
+    ```
+    16442278
+    ```
+
 - **(SPOT PENDIENTE)**  
-  `16443584`  
-  _11–11 s (CUÑA – REGULAR PROMOCION)_
+  - **Rango:** 11–11 s  
+  - **ID:**
+    ```
+    16443584
+    ```
+
 - **(SPOT PENDIENTE)**  
-  `16443826`  
-  _11–11 s (CUÑA – REGULAR PROMOCION)_
+  - **Rango:** 11–11 s  
+  - **ID:**
+    ```
+    16443826
+    ```
+
 - **PAQUETE PARA DISFRUTES INTERNET CON VELOCIDAD DE OTRO PLANETA CON DISNEY+ INCLUIDO DESDE $510 AL MES LILO Y STITCH A PARTIR DEL 3 SEPT EN DISNEY+**  
-  `16411838`  
-  _21–21 s (CUÑA – REGULAR PROMOCION)_
-</details>
+  - **Rango:** 21–21 s  
+  - **ID:**
+    ```
+    16411838
+    ```
 
-<details>
-<summary><i>SPOT REGULAR</i></summary>
+  </details>
 
+  <details>
+    <summary><i>SPOT REGULAR</i></summary>
+
+#### CUÑA – SPOT REGULAR
 - **PARA LA GRIPA PARA LAS COSAS PARA EL DOLOR EN CAPSULAS BLANDAS ALIVIO RAPIDO Y SEGURO**  
-  `16429016`  
-  _8–8 s (CUÑA – SPOT REGULAR)_
+  - **Rango:** 8–8 s  
+  - **ID:**
+    ```
+    16429016
+    ```
+
 - **200 AÑOS MUJERES Y HOMBRES ILUSTRES HAN DADO FORMA A LA CORTE PARA QUE TODA PERSONA QUE SE QUEJE CON JUSTICIA TENGA UN TRIBUNAL QUE LO AMPARE**  
-  `16272444`  
-  _30–30 s (CUÑA – SPOT REGULAR)_
+  - **Rango:** 30–30 s  
+  - **ID:**
+    ```
+    16272444
+    ```
+
 - **DESDE 2019 TRABAJAMOS POR LA TRANSFORMACION EN LA DEFENSORIA NACIONAL DE LOS DERECHOS DEL PUEBLO PARA QUE LAS RECOMENDACIONES SEAN OBLIGATORIAS**  
-  `16304690`  
-  _30–30 s (CUÑA – SPOT REGULAR)_
+  - **Rango:** 30–30 s  
+  - **ID:**
+    ```
+    16304690
+    ```
+
 - **LA EDUCACION ES UN DERECHO NO ES UNA MERCANCIA NI UN PRIVILEGIO ESTAMOS AMPLIANDO EL NUMERO DE PREPARATORIAS SEPT 38 MIL NUEVO LUGARES**  
-  `16440482`  
-  _30–30 s (CUÑA – SPOT REGULAR)_
+  - **Rango:** 30–30 s  
+  - **ID:**
+    ```
+    16440482
+    ```
+
 - **DA EL GRITO Y GANA 23 SEPT EL GRAN SORTEO ESPECIAL DE LAS Y LOS MIGRANTES APOYA QUE EN SUS CANTOS LEJOS NUNCA OLVIDAN SUS RAICES**  
-  `16442070`  
-  _31–31 s (CUÑA – SPOT REGULAR)_
-</details>
+  - **Rango:** 31–31 s  
+  - **ID:**
+    ```
+    16442070
+    ```
+
+  </details>
 
 </details>
 
 <details>
 <summary><b>AUTOPROMOCIONAL</b></summary>
 
-<details>
-<summary><i>AUTO PROMOCIONAL</i></summary>
+  <details>
+    <summary><i>AUTO PROMOCIONAL</i></summary>
 
+#### AUTOPROMOCIONAL – AUTO PROMOCIONAL
 - **LOGO DEL CANAL**  
-  `15880632`  
-  _8–20 s (AUTOPROMOCIONAL – AUTO PROMOCIONAL)_
+  - **Rango:** 8–20 s  
+  - **ID:**
+    ```
+    15880632
+    ```
+
 - **BUSCANOS EN FACEBOOK COMO MULTIMEDIOS TELEVISION POR CANAL 6.**  
-  `16217205`  
-  _4–6 s (AUTOPROMOCIONAL – AUTO PROMOCIONAL)_
+  - **Rango:** 4–6 s  
+  - **ID:**
+    ```
+    16217205
+    ```
+
 - **ESTA SEMANA EN ESTE ESTEREO: BENNY BETO DANNY ALFARO SERBIA JENNY JUEVES NOCHE CANAL 6.**  
-  `16442171`  
-  _19–19 s (AUTOPROMOCIONAL – AUTO PROMOCIONAL)_
+  - **Rango:** 19–19 s  
+  - **ID:**
+    ```
+    16442171
+    ```
+
 - **SIGUENOS EN TIKTOK COMO MULTIMEDIOS TV POR CANAL 6.**  
-  `16336591`  
-  _5–5 s (AUTOPROMOCIONAL – AUTO PROMOCIONAL)_
+  - **Rango:** 5–5 s  
+  - **ID:**
+    ```
+    16336591
+    ```
+
 - **EN BUENAS NOCHES CON ZEMBA BUSCANDO A PEPE HUESOS Y SILVIA DE OCHOA EN ESCUELITO DEL SEXO.**  
-  `16443825`  
-  _21–21 s (AUTOPROMOCIONAL – AUTO PROMOCIONAL)_
+  - **Rango:** 21–21 s  
+  - **ID:**
+    ```
+    16443825
+    ```
+
 - **AUTOPROMO**  
-  `16443839`  
-  _20–20 s (AUTOPROMOCIONAL – AUTO PROMOCIONAL)_
-</details>
+  - **Rango:** 20–20 s  
+  - **ID:**
+    ```
+    16443839
+    ```
 
-<details>
-<summary><i>CAPSULA</i></summary>
+  </details>
 
+  <details>
+    <summary><i>CAPSULA</i></summary>
+
+#### AUTOPROMOCIONAL – CAPSULA
 - **(TX: MOMENTOS DEL 6)**  
-  `16281603`  
-  _90–98 s (AUTOPROMOCIONAL – CAPSULA)_
+  - **Rango:** 90–98 s  
+  - **ID:**
+    ```
+    16281603
+    ```
+
 - **(TX: MOMENTOS SNSERIO)**  
-  `16392834`  
-  _42–71 s (AUTOPROMOCIONAL – CAPSULA)_
+  - **Rango:** 42–71 s  
+  - **ID:**
+    ```
+    16392834
+    ```
+
 - **(TX: 6 DEPORTES)**  
-  `16266689`  
-  _126–126 s (AUTOPROMOCIONAL – CAPSULA)_
+  - **Rango:** 126–126 s  
+  - **ID:**
+    ```
+    16266689
+    ```
+
 - **(TX: MOMENTOS DEL 6)**  
-  `16306626`  
-  _91–91 s (AUTOPROMOCIONAL – CAPSULA)_
-</details>
+  - **Rango:** 91–91 s  
+  - **ID:**
+    ```
+    16306626
+    ```
 
-<details>
-<summary><i>AVANCE DE PROGRAMA</i></summary>
+  </details>
 
+  <details>
+    <summary><i>AVANCE DE PROGRAMA</i></summary>
+
+#### AUTOPROMOCIONAL – AVANCE DE PROGRAMA
 - **TELEDIARIO AL MINUTO**  
-  `16353455`  
-  _79–90 s (AUTOPROMOCIONAL – AVANCE DE PROGRAMA)_
-</details>
+  - **Rango:** 79–90 s  
+  - **ID:**
+    ```
+    16353455
+    ```
+
+  </details>
 
 </details>
